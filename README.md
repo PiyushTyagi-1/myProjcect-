@@ -1,2 +1,2 @@
 # myProjcect-
-This is my first project.
+This is my first project for Git &amp; Github class.
